@@ -1,0 +1,28 @@
+.grid{
+    display: grid;
+
+}
+.bodyContent{
+    padding: 40px;
+    box-sizing: border-box;
+    border-radius: 10px;
+    background: #FAFAFA;
+
+}
+
+.gridTemplateColumns2{
+    grid-template-columns: 1fr 1fr;
+    
+
+}
+.placeHolderWrap{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+}
+.grid-template-columns-3{
+    grid-template-columns: 1fr 1fr 1fr;
+}
+

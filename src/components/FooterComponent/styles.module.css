@@ -1,0 +1,50 @@
+.footer {
+  width: 100%;
+  display: inline-flex;
+  padding: 24px 119px 24px 127px;
+  justify-content: space-between;
+  align-items: center;
+  background: #252f3d;
+}
+.footerCopy {
+  display: flex;
+  padding: 8px 0px;
+  align-items: center;
+  gap: 16px;
+  align-self: stretch;
+}
+
+.footerCopy p {
+  color: #fff;
+  text-transform: uppercase;
+  font-size: 16px;
+}
+.footerCopyContact {
+  color: #fff;
+}
+
+.footerCopyDivider {
+  width: 1px;
+  height: 24px;
+  background-color: #fff;
+}
+
+.footerSecurityCompliance {
+  color: #fff;
+  text-align: center;
+  leading-trim: both;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  text-transform: capitalize;
+  display: flex;
+  align-items: center;
+}
+
+.footerSecurityComplianceIcon{
+  display: flex;
+  line-height: 1;
+  align-items: center;
+  margin-right: 16px;
+}
+

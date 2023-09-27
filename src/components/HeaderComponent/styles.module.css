@@ -1,0 +1,29 @@
+.header {
+  background: #252f3d;
+  width: 100%;
+}
+.headerContent {
+  height: 50px;
+
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.headerData {
+  color: #fff;
+  display: flex;
+  align-items: center;
+}
+
+.headerData p {
+  margin: 0px 8px;
+  text-transform: uppercase;
+  line-height: 1;
+  font-size: 12px;
+}
+
+.headerData div {
+    display: flex;
+    align-items: center;
+}
